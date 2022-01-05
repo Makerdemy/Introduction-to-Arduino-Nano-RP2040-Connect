@@ -1,0 +1,7 @@
+1. Link to download Arduino IDE 2.0
+
+	https://www.arduino.cc/en/software#experimental-software
+
+2. Bootloader mode link :
+
+	https://docs.arduino.cc/tutorials/nano-rp2040-connect/rp2040-01-technical-reference#bootloader
